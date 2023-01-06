@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Persona-Generator/static/css/main.59205243.css",
+    "main.css": "/Persona-Generator/static/css/main.ffe9dc2b.css",
     "main.js": "/Persona-Generator/static/js/main.cea8e3fd.js",
     "static/js/787.c1112931.chunk.js": "/Persona-Generator/static/js/787.c1112931.chunk.js",
     "index.html": "/Persona-Generator/index.html",
-    "main.59205243.css.map": "/Persona-Generator/static/css/main.59205243.css.map",
+    "main.ffe9dc2b.css.map": "/Persona-Generator/static/css/main.ffe9dc2b.css.map",
     "main.cea8e3fd.js.map": "/Persona-Generator/static/js/main.cea8e3fd.js.map",
     "787.c1112931.chunk.js.map": "/Persona-Generator/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59205243.css",
+    "static/css/main.ffe9dc2b.css",
     "static/js/main.cea8e3fd.js"
   ]
 }
